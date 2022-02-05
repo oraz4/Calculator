@@ -1,0 +1,47 @@
+.button{
+-fx-border-radius: 50%;
+    -fx-background-color: #333333;
+    -fx-font-size: 14pt;
+}
+
+.button:hover{
+    -fx-background-color: #3F3F3F;
+}
+button:focus{
+-fx-background-color: red;
+}
+
+.text-field{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#topButton{
+    -fx-background-color: #A5A5A5;
+}
+
+#topButton:hover{
+-fx-background-color: #D3D3D3;
+}
+
+#topButton:active{
+-fx-background-color: red;
+}
+
+#leftButton{
+    -fx-background-color: #EE9325;
+    -fx-border-radius: 50%;
+}
+
+#leftButton:hover{
+-fx-background-color: #FFAA55;
+}
+
+#buttonBack{
+-fx-background-color: black;
+}
+
+#outputTF{
+-fx-font-color: white;
+}
+
