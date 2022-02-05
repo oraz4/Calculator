@@ -1,27 +1,23 @@
 # Calculator
 A scientific calculator
 
-
-# Project title:
-Calculator
-
 # Project description
 
 
 # Software & libraries used:
-Java, Libraries: javafx-fxml
-CSS
+- Java, Libraries: javafx-fxml
+- CSS
 
 # Installation instructions :
-Download the files or git clone git@github.com:oraz4z/Calculator.git. Then open the project with IntelliJ/Eclipse etc
+- Download the files or git clone git@github.com:oraz4z/Calculator.git. Then open the project with IntelliJ/Eclipse etc
 
 # Planned App's features list:
 
 # List of completed features:
-all
+- all
 
 # List of features yet to implement:
-Add more features and make option to switch between scientific and regular calculator
+- Add more features and make option to switch between scientific and regular calculator
 
-Author:
-Oraz Giyoev
+# Author:
+- Oraz Giyoev
