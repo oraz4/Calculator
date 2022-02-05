@@ -1,6 +1,8 @@
 # Calculator
 A scientific calculator
 
+![Screenshot](https://user-images.githubusercontent.com/49120405/152638090-7905f64f-9b7a-448f-a7f2-5ec177faed21.JPG)
+
 # Project description
 
 
