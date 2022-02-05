@@ -9,7 +9,7 @@ A scientific calculator
 - CSS
 
 # Installation instructions :
-- Download the files or git clone git@github.com/oraz4/Calculator.git. Then open the project with IntelliJ/Eclipse etc
+- Download the files or git clone https://github.com/oraz4/Calculator.git. Then open the project with IntelliJ/Eclipse etc
 
 # Planned App's features list:
 
